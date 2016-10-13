@@ -4,7 +4,7 @@
 
 <p>From The Odin Project: (http://www.theodinproject.com/web-development-101/html-css)</p>
 
-<p>Things to look over at the end</p>
+<p>Things to look over at the end:</p>
 
 <ol>
 <li>Two ways to move a div around on the page</li>
